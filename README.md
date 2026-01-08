@@ -4,9 +4,11 @@
 - [manga-items](#manga-items)
   - [death-note](#death-note)
   - [is-the-order-a-rabbit](#is-the-order-a-rabbit)
+  - [jojo-s-bizarre-adventure](#jojo-s-bizarre-adventure)
   - [wataten](#wataten)
 - [keyword-index](#keyword-index)
   - [detective](#detective)
+  - [fight](#fight)
   - [lolicon](#lolicon)
   - [yuri](#yuri)
 
@@ -32,6 +34,16 @@ Is the Order a Rabbit? (Japanese: ご注文はうさぎですか?, Hepburn: Goch
 
 https://en.wikipedia.org/wiki/File:Goch%C5%ABmon_wa_Usagi_Desu_ka%3F_volume_1_cover.jpg
 
+### jojo-s-bizarre-adventure
+
+> see: [JoJo's Bizarre Adventure - Wikipedia](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure)
+
+JoJo's Bizarre Adventure (Japanese: ジョジョの奇妙な冒険, Hepburn: JoJo no Kimyō na Bōken) is a Japanese manga series written and illustrated by Hirohiko Araki. It was originally serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from 1987 to 2004, and was transferred to the monthly seinen manga magazine Ultra Jump in 2005. The series is divided into a total of nine main story arcs, each following a new protagonist bearing the "JoJo" nickname. JoJo's Bizarre Adventure is one of the largest manga series by number of volumes, with its chapters collected in 138 tankōbon volumes as of December 2025.
+
+<img src="assets/JoJo_no_Kimyou_na_Bouken_cover_-_vol1.png" width=200>
+
+https://en.wikipedia.org/wiki/File:JoJo_no_Kimyou_na_Bouken_cover_-_vol1.jpg
+
 ### wataten
 
 > see: [Wataten! - Wikipedia](https://en.wikipedia.org/wiki/Wataten!)
@@ -48,12 +60,16 @@ https://en.wikipedia.org/wiki/File:Watashi_ni_Tenshi_ga_Maiorita!,_volume_1.jpg
 
 1. [death-note](#death-note)
 
+### fight
+
+1. [jojo-s-bizarre-adventure](#jojo-s-bizarre-adventure)
+
 ### lolicon
 
 1. [wataten](#wataten)
-1. [is-the-order-a-rabbit](#is-the-order-a-rabbit)
+2. [is-the-order-a-rabbit](#is-the-order-a-rabbit)
 
 ### yuri
 
 1. [wataten](#wataten)
-1. [is-the-order-a-rabbit](#is-the-order-a-rabbit)
+2. [is-the-order-a-rabbit](#is-the-order-a-rabbit)
